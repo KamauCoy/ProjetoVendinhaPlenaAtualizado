@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|solutionrelative:vendinha\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|solutionrelative:vendinha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha\\services\\dividaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|solutionrelative:vendinha\\services\\dividaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\controllers\\dividacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\controllers\\dividacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha\\models\\divida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|solutionrelative:vendinha\\models\\divida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|solutionrelative:vendinha\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha\\data\\vendinhadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|solutionrelative:vendinha\\data\\vendinhadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\vendinha.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\vendinha.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha\\vendinha.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69C77DB2-09DD-1700-59D2-084A234C1F07}|Vendinha\\Vendinha.csproj|solutionrelative:vendinha\\vendinha.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\vendinha.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\vendinha.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|c:\\users\\maria fernanda\\downloads\\projetovendinhaatualizado (2)\\projetovendinhaatualizado (1)\\vendinha.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99A7E681-240D-45FD-AED2-AFD7B664E015}|Vendinha.api\\Vendinha.api.csproj|solutionrelative:vendinha.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VendinhaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Data\\VendinhaDbContext.cs",
+              "RelativeDocumentMoniker": "Vendinha\\Data\\VendinhaDbContext.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Data\\VendinhaDbContext.cs",
+              "RelativeToolTip": "Vendinha\\Data\\VendinhaDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwCMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T22:47:54.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Vendinha\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Models\\Cliente.cs",
+              "RelativeToolTip": "Vendinha\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T22:34:40.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DividaService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Services\\DividaService.cs",
+              "RelativeDocumentMoniker": "Vendinha\\Services\\DividaService.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Services\\DividaService.cs",
+              "RelativeToolTip": "Vendinha\\Services\\DividaService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwIIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T22:34:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Program.cs",
+              "RelativeDocumentMoniker": "Vendinha\\Program.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Program.cs",
+              "RelativeToolTip": "Vendinha\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:49:26.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Vendinha.api\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Vendinha.api\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:02:57.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Program.cs",
+              "RelativeDocumentMoniker": "Vendinha.api\\Program.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Program.cs",
+              "RelativeToolTip": "Vendinha.api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T22:39:05.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Vendinha\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Vendinha\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4AAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T22:34:36.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DividaController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Controllers\\DividaController.cs",
+              "RelativeDocumentMoniker": "Vendinha.api\\Controllers\\DividaController.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Controllers\\DividaController.cs",
+              "RelativeToolTip": "Vendinha.api\\Controllers\\DividaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T18:27:23.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Divida.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Models\\Divida.cs",
+              "RelativeDocumentMoniker": "Vendinha\\Models\\Divida.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Models\\Divida.cs",
+              "RelativeToolTip": "Vendinha\\Models\\Divida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T22:34:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Vendinha.api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\WeatherForecast.cs",
+              "RelativeToolTip": "Vendinha.api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:03:21.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Vendinha.api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Vendinha.api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:03:02.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vendinha.api.csproj",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Vendinha.api.csproj",
+              "RelativeDocumentMoniker": "Vendinha.api\\Vendinha.api.csproj",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Vendinha.api.csproj",
+              "RelativeToolTip": "Vendinha.api\\Vendinha.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T23:07:18.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vendinha.csproj",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Vendinha.csproj",
+              "RelativeDocumentMoniker": "Vendinha\\Vendinha.csproj",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha\\Vendinha.csproj",
+              "RelativeToolTip": "Vendinha\\Vendinha.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T23:21:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vendinha.api.http",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Vendinha.api.http",
+              "RelativeDocumentMoniker": "Vendinha.api\\Vendinha.api.http",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Vendinha.api.http",
+              "RelativeToolTip": "Vendinha.api\\Vendinha.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-30T19:19:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\appsettings.json",
+              "RelativeDocumentMoniker": "Vendinha.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\appsettings.json",
+              "RelativeToolTip": "Vendinha.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T23:21:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Vendinha.api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Maria Fernanda\\Downloads\\ProjetoVendinhaAtualizado (2)\\ProjetoVendinhaAtualizado (1)\\Vendinha.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Vendinha.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T23:23:09.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

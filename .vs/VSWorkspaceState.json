@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Vendinha",
+    "\\Vendinha.api",
+    "\\Vendinha.api\\Controllers",
+    "\\Vendinha\\Data",
+    "\\Vendinha\\Models",
+    "\\Vendinha\\Services"
+  ],
+  "SelectedNode": "\\Vendinha.api\\Controllers\\DividaController.cs",
+  "PreviewInSolutionExplorer": false
+}

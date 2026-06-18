@@ -1,0 +1,188 @@
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.AssemblyInfo.cs
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.deps.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.runtimeconfig.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.exe
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\appsettings.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.staticwebassets.endpoints.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.exe
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.deps.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.runtimeconfig.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.pdb
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.pdb
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\scopedcss\bundle\Vendinha.api.styles.css
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.4A358A3A.Up2Date
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\refint\Vendinha.api.dll
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.pdb
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.genruntimeconfig.cache
+C:\Users\Aula\Downloads\TrabalhoVendinha\Vendinha.api\obj\Debug\net10.0\ref\Vendinha.api.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\appsettings.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.staticwebassets.endpoints.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.deps.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.runtimeconfig.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.exe
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.exe
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.deps.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.runtimeconfig.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.api.pdb
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\bin\Debug\net10.0\Vendinha.pdb
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.csproj.AssemblyReference.cache
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.AssemblyInfoInputs.cache
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.AssemblyInfo.cs
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.csproj.CoreCompileInputs.cache
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\scopedcss\bundle\Vendinha.api.styles.css
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.4A358A3A.Up2Date
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\refint\Vendinha.api.dll
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.pdb
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\Vendinha.api.genruntimeconfig.cache
+C:\Users\Maria Fernanda\Downloads\P2Vendinha\Vendinha.api\obj\Debug\net10.0\ref\Vendinha.api.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\appsettings.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.deps.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.runtimeconfig.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.exe
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.staticwebassets.endpoints.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.exe
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.deps.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.runtimeconfig.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.pdb
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.pdb
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.csproj.AssemblyReference.cache
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.AssemblyInfoInputs.cache
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.AssemblyInfo.cs
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.csproj.CoreCompileInputs.cache
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\scopedcss\bundle\Vendinha.api.styles.css
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.4A358A3A.Up2Date
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\refint\Vendinha.api.dll
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.pdb
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.genruntimeconfig.cache
+C:\Users\Sagae\OneDrive\Desktop\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\ref\Vendinha.api.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\appsettings.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.staticwebassets.endpoints.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.deps.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.runtimeconfig.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.exe
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.exe
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.deps.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.runtimeconfig.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.api.pdb
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\bin\Debug\net10.0\Vendinha.pdb
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.csproj.AssemblyReference.cache
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.AssemblyInfoInputs.cache
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.AssemblyInfo.cs
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.csproj.CoreCompileInputs.cache
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\scopedcss\bundle\Vendinha.api.styles.css
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.4A358A3A.Up2Date
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\refint\Vendinha.api.dll
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.pdb
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\Vendinha.api.genruntimeconfig.cache
+C:\Users\Maria Fernanda\Downloads\ProjetoVendinhaAtualizado (2)\ProjetoVendinhaAtualizado (1)\Vendinha.api\obj\Debug\net10.0\ref\Vendinha.api.dll

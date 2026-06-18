@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Vendinha.api/Vendinha.api.csproj" Id="99a7e681-240d-45fd-aed2-afd7b664e015" />
+  <Project Path="Vendinha/Vendinha.csproj" />
+</Solution>
